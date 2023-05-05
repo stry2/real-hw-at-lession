@@ -34,7 +34,5 @@
 }
 .box3:hover {
     background-color: #115C9A;
-    transform: rotate(-270deg);
-    -webkit-transform: rotate(-270deg);
-    -o-transform: rotate(-270deg);
+     transform: scalex(1.5);
 }
